@@ -12,6 +12,7 @@ create a folder called chrome
 add a file called userChrome.css
 
 add to file and save
+
 :root {
   --tabs-navbar-separator-color: rgba(0, 0, 0, 0) !important;
 }
